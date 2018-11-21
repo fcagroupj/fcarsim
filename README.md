@@ -1,5 +1,5 @@
 # fcarsim
-Client example of Carla simulator with OpenCV in python.
+Client example of Carla simulator with cv2 or OpenCV in python.
 CARLA is an open-source simulator for autonomous driving research. 
 
 # how to use
